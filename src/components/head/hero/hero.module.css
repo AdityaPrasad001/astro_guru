@@ -1,0 +1,45 @@
+.container {
+  display: grid;
+  place-items: center;
+  color: #fff;
+}
+
+.text_container {
+  margin-bottom: 5rem;
+}
+
+.main_heading {
+  font-size: 5rem;
+  font-family: "Sansation";
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.2;
+  text-align: center;
+  letter-spacing: 0.085em;
+  margin-bottom: 2rem;
+}
+
+.sub_head {
+  width: 60rem;
+  height: 5rem;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  text-align: center;
+  letter-spacing: 0.1rem;
+}
+
+.consult_btn {
+  text-decoration: none;
+  padding: 2rem 4rem;
+  font-size: 1.5rem;
+  color: #fff;
+  font-family: "Poppins";
+  font-weight: 500;
+  background-color: #cf711f;
+  border: none;
+  border-radius: 3rem;
+  letter-spacing: 0.1rem;
+}

@@ -1,0 +1,60 @@
+.section_detail {
+  padding: 4rem 2rem 4rem 8rem;
+  margin: 2rem 0;
+}
+
+.logos {
+  display: flex;
+  justify-content: space-around;
+}
+
+.logo_container {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  width: 19rem;
+}
+
+.logo_text {
+  font-family: "Poppins";
+  width: 13rem;
+  height: 4rem;
+
+  font-weight: 500;
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+.logo_text2 {
+  font-family: "Poppins";
+  width: 8rem;
+  height: 4rem;
+
+  font-weight: 500;
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+/* DOTS */
+.dots {
+  display: flex;
+  gap: 1.2rem;
+  justify-content: center;
+  margin-top: 4rem;
+}
+.dot {
+  height: 1.2rem;
+  width: 1.2rem;
+  background-color: transparent;
+  border: 2px solid peru;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.dot_fill {
+  height: 12px;
+  width: 12px;
+  border: 2px solid peru;
+  border-radius: 50%;
+  cursor: pointer;
+  background-color: peru;
+}

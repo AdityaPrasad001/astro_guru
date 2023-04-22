@@ -1,0 +1,9 @@
+.main_container {
+  /* background-image: url("../src/assets/purple-background.png"); */
+
+  background-image: linear-gradient(
+      rgba(170, 79, 0, 0.35),
+      rgba(170, 79, 0, 0.35)
+    ),
+    url("../src/assets/purple-background.png");
+}
